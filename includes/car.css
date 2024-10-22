@@ -1,0 +1,10 @@
+img{
+    height: 150px;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel{
+    background-color: aqua;
+    height: 300px;
+}
